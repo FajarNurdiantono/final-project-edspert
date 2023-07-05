@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../assets/Menu.jpeg';
+import Menu from '../../assets/Menu.jpeg';
 
 function Main() {
   return (
