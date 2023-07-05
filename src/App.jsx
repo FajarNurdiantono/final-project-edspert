@@ -5,8 +5,8 @@ import ProductDetail from './components/ProductDetail';
 function App() {
   return (
     <>
-      {/* <ProductCatalog /> */}
-      <ProductDetail />
+      <ProductCatalog />
+      {/* <ProductDetail /> */}
     </>
   );
 }
