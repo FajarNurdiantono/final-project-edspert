@@ -2,8 +2,6 @@ import React from 'react';
 import IntruksiPembayaran from './InstruksiPembayaran';
 import MetodePembayaran from './MetodePembayaran';
 import Verifikasi from './Verifikasi';
-import Kanan from '../../assets/Kanan.jpeg';
-import Kiri from '../../assets/Kiri.jpeg';
 
 function Main() {
   return (
