@@ -1,8 +1,8 @@
 import React from 'react';
 import Metode from './Metode';
 import Ringkasan from './Ringkasan';
-import Kiri from '../../assets/kiri.jpeg';
-import Kanan from '../../assets/kanan.jpeg';
+import Kiri from '../../assets/Kiri.jpeg';
+import Kanan from '../../assets/Kanan.jpeg';
 
 function Main() {
   return (

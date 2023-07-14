@@ -9,7 +9,7 @@ function Main() {
   return (
     <div className="bg-main h-full w-full font-Mulish inline-block">
       <div className="flex ml-[40px] mt-10">
-        <img src={Kiri} alt="kiri" className="mr-2" />
+        <img src={Kiri} alt="Kiri" className="mr-2" />
         <p className="font-500 text-xs text-subdued">Checkout</p>
         <img src={Kanan} alt="Kanan" className="mx-3" />
         <p className="font-700 text-xs text-biru">Instruksi Bayar</p>
